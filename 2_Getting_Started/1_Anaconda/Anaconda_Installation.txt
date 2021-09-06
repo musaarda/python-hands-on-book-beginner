@@ -1,7 +1,7 @@
-We will use Anaconda and Jupyter Lab for the first half our course.
+We will use Anaconda and Jupyter Lab for the this book.
 
 To install Anaconda:
 
 https://www.anaconda.com
 
-Here , you can download 'Individual Edition'ı.
+Here, you can download the 'Individual Edition'.
