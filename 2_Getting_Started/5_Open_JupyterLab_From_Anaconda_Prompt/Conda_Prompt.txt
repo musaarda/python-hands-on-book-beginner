@@ -1,0 +1,19 @@
+# Virtual Environment List:
+conda env list
+
+# Create a new Virtual Environment:
+conda create --name my_virtual_env
+
+# Activate Virtual Environment:
+conda activate musa_arda_sanal_ortami
+
+# Install JupyterLab
+conda install jupyterlab
+conda install -c conda-forge jupyterlab
+
+# Start JupyterLab
+jupyter lab
+
+
+JupyterLab Docs:
+https://jupyterlab.readthedocs.io/en/stable/getting_started/starting.html

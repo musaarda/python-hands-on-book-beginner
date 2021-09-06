@@ -1,0 +1,7 @@
+
+Python Virtual Environment Documentation:
+https://docs.python.org/3/tutorial/venv.html
+
+Python Package Repository:
+https://pypi.org/
+

@@ -1,0 +1,20 @@
+Jupyter Lab / Jupyter Notebook asks for Password/Token:
+
+official documentation:
+https://jupyter-notebook.readthedocs.io/en/stable/security.html
+
+
+Steps:
+
+1- Open Anaconda Prompt and type:
+
+jupyter notebook list
+
+
+2- For the Port you use, copy the token for that Port.
+
+
+3- Go to Password Screen of Jupyter and paste the token into "Password or token" field.
+
+
+That's all you should do :)
