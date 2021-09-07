@@ -5,7 +5,7 @@ conda env list
 conda create --name my_virtual_env
 
 # Activate Virtual Environment:
-conda activate musa_arda_sanal_ortami
+conda activate python_intro
 
 # Install JupyterLab
 conda install jupyterlab
