@@ -1,4 +1,4 @@
-# Python Hands-On with Exercises, Projects, Assignments & Exams
+# Hands-On Python with Exercises, Projects, Assignments & Exams
 # BOOK 1: BEGINNER
 
 This is a collection of resources for Python Hands-On Book - Beginner level.
