@@ -1,0 +1,31 @@
+Hands-On Python Beginner 
+with 162 Exercises, 3 Projects, 3 Assignments & Final Exam
+
+by Musa Arda
+
+Please feel free to get in contact with the author. 
+To comment or ask technical questions about this book, you can send email to python.hands.on.book@gmail.com.
+
+The Folder Structure:
+1_Introduction
+2_Getting_Started
+3_The_First_Program
+4_Variables
+5_Functions_I
+6_Project_I_Functions
+7_Assignment_I_Functions
+8_Conditional_Statements
+9_Functions_II
+10_Loops
+11_Strings
+12_Project_2_Words
+13_Assignment_2_Words
+14_List
+15_Dictionary
+16_Tuple
+17_Set
+18_Comprehension
+19_Project_3_Snake_Game
+20_Assignment_3_Snake_Game
+21_Final_Exam
+22_Conclusion
