@@ -1,0 +1,17 @@
+22.	Conclusion
+
+This is the last chapter in this book. We have covered almost all the fundamental concepts in Python and we covered them in great detail. We started with setting our development environment. Then we defined our First program and said ‘Hello World’ to Python. We then we moved on with Variables, Functions and we finished our First Project. We learned Conditional Statements and we moved on with the second part of the Functions. Then we learned Loops and Strings. After Strings we built the Second Project. Then came the Lists, Dictionaries, Tuples, Sets and Comprehensions. And we finished the third Project after these topics. Finally you got the Final Exam to test yourself.
+
+The approach we followed in this book is quite unique and intense. It aims to teach you Python in a solid and unforgettable way. That’s why we had more than 200 coding exercises, quizzes and assignments. The idea is to make sure we used all the possible ways to help you learn Python programming And I hope, I achieved this.
+
+This book is the part of the Hands-On Python Series. There are three books in this series. Beginner, Intermediate and Advanced. This book is the first one, the Beginner one. You can start the Intermediate part after you finish this book and feel comfortable with the fundamentals of Python.
+
+
+
+Dear reader!
+
+I want to thank you with all my heart, for your interest in my book, your patience and your desire to learn Python. You did a great job finishing this intense book. And I am very happy to be a part of this. I hope we see each other again in another programming book. Till then, I hope, you have wonderful life, and you reach your dreams. 
+
+Good bye.
+
+Musa Arda
